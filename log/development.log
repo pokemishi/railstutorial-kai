@@ -133,3 +133,6 @@ puma (3.0.0) lib/puma/thread_pool.rb:111:in `block in spawn_thread'
   Rendering /Users/sanmukhl/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
   Rendered /Users/sanmukhl/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.6ms)
   Rendered /Users/sanmukhl/.rvm/gems/ruby-2.3.0@global/gems/actionpack-5.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (186.6ms)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from env_config at /home/ec2-user/.rvm/gems/ruby-2.6.0/gems/railties-5.1.6/lib/rails/application.rb:247)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from env_config at /home/ec2-user/.rvm/gems/ruby-2.6.0/gems/railties-5.1.6/lib/rails/application.rb:247)
+DEPRECATION WARNING: You didn't set `secret_key_base`. Read the upgrade documentation to learn more about this new config option. (called from env_config at /home/ec2-user/.rvm/gems/ruby-2.6.0/gems/railties-5.1.6/lib/rails/application.rb:247)
