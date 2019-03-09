@@ -1,6 +1,6 @@
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
-これは、次の教材で作られたサンプルアプリケーションです。
+これは、次の教材で作られたサンプルアプリケーションを改良したものです。
 [*Ruby on Rails チュートリアル*](http://railstutorial.jp/)
 [Michael Hartl](http://www.michaehartl.com/) 著
 
