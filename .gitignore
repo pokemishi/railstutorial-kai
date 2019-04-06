@@ -19,5 +19,6 @@
 # Ignore Spring files.
 /spring/*.pid
 
+
 # seeds.rbを除外
 seeds.rb
