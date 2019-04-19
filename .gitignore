@@ -21,3 +21,6 @@
 
 # seeds.rbを除外
 seeds.rb
+
+# アップロードされたテスト画像を無視する
+/public/uploads
