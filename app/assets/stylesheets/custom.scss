@@ -260,6 +260,9 @@ input {
   .user {
     margin-top: 5em;
     padding-top: 0;
+    a {
+    color: #4169e1;
+    }
   }
   .content {
     display: block;
@@ -273,6 +276,9 @@ input {
     color: $gray-light;
     display: block;
     margin-left: 60px;
+    a {
+    color: #2c2c99;
+    }
   }
   .gravatar {
     float: left;
