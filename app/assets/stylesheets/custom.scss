@@ -39,10 +39,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .jumbotron h1 {
+  font-family: 'Lobster', cursive;
   font-size: 3.0em;
   letter-spacing: -1px;
   margin-bottom: 10px;
   text-align: center;
+  color: #2f4f4f;
 }
 
 h2 {
@@ -69,12 +71,13 @@ p {
 /* header */
 
 #logo {
+  font-family: 'Playfair Display', serif;
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
   color: white;
   text-transform: uppercase;
-  letter-spacing: -1px;
+  /* letter-spacing: -1px; */
   padding-top: 9px;
   font-weight: bold;
   &:hover {
