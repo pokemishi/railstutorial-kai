@@ -1,8 +1,13 @@
-# Ruby on Rails チュートリアルのサンプルアプリケーション
+# Rails Tutorial（改）
 
-これは、次の教材で作られたサンプルアプリケーションを改良したものです。
+これは、次の教材で作られたアプリケーションを改良したものです。
 [*Ruby on Rails チュートリアル*](http://railstutorial.jp/)
 [Michael Hartl](http://www.michaehartl.com/) 著
+
+## 改良内容
+
+1. Google Fontを適用
+2. プロフィールの追加
 
 ## ライセンス
 
